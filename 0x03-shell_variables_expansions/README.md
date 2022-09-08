@@ -4,3 +4,4 @@ Create a script that lists environment variables.
 List all local variables
 export
 Connect
+Export 2
