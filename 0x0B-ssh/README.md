@@ -1,1 +1,1 @@
-About ssh
+About ss.h
